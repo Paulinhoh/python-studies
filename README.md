@@ -1,4 +1,4 @@
-# python
+# Python-Studies
 
 Python é uma linguagem que tem ganhado popularidade na área de tecnologia, para desenvolvimento web, Data Science. 
 É conhecida pelos seus famosos frameworks web, como Django e Flask.
